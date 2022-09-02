@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  LoginFacebookPractice
 //
-//  Created by Wilson David Molina Lozano on 30/08/22.
+//  Created by Juan Diego Marin Marin on 30/08/22.
 //
 
 import UIKit
